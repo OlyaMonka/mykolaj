@@ -1,0 +1,4744 @@
+﻿{
+    "FAMILY": [
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "1-й Топольний провулок 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Авіаційна 1, кім 27",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "92",
+        "ADDRESS": "Айвазовського 12",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "92",
+        "ADDRESS": "Айвазовського 22",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "Академіка Павлова 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "140",
+        "ADDRESS": "Ангарна 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "98",
+        "ADDRESS": "Ангеловича 20",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "55",
+        "ADDRESS": "Антоненка-Давидовича 1",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "55",
+        "ADDRESS": "Антоненка-Давидовича 3",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "55",
+        "ADDRESS": "Антоненка-Давидовича 7",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "55",
+        "ADDRESS": "Антоненка-Давидовича 9",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "97",
+        "ADDRESS": "Антонича 12",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "97",
+        "ADDRESS": "Антонича 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "97",
+        "ADDRESS": "Антонича 22",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "89",
+        "ADDRESS": "Антонича 24",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "89",
+        "ADDRESS": "Антонича 28",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "97",
+        "ADDRESS": "Антонича 4",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "97",
+        "ADDRESS": "Антонича 8",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Антоновича 19",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Антоновича 57",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Антоновича",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Б. Котика 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Багряного 53",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Бажана 6",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Балабана 29",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "137",
+        "ADDRESS": "Балтійська 27",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "98",
+        "ADDRESS": "Бандери 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Баронча 6",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Бахматюка 14а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Баштанна 1",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Бережанська 113",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Бережанська 28",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "1",
+        "ADDRESS": "Біберовича 11",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "1",
+        "ADDRESS": "Біберовича",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "137",
+        "ADDRESS": "Білинського 11",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Білоцерківська 10",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Білоцерківська 2а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "51",
+        "ADDRESS": "Блажкевич 4",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Боберського 19",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "Бодянського",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "71",
+        "ADDRESS": "Бойчука 3",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "71",
+        "ADDRESS": "Бойчука 5",
+        "CHILDREN_COUNT": "11"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Болбочана 25",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "Бортнянського Д.",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Ботєва 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "2",
+        "ADDRESS": "Боткіна 37",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Боткіна 73",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "133",
+        "ADDRESS": "Бринського 2",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Брюллова 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Брюховицька 224",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "1",
+        "ADDRESS": "Брюховицька 43",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "78",
+        "ADDRESS": "В. Великого 1",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "78",
+        "ADDRESS": "В. Великого 11",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "116",
+        "ADDRESS": "В. Великого 113",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "79",
+        "ADDRESS": "В. Великого 13",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "76",
+        "ADDRESS": "В. Великого 14",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "76",
+        "ADDRESS": "В. Великого",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "79",
+        "ADDRESS": "В. Великого 25",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "79",
+        "ADDRESS": "В. Великого 31",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "76",
+        "ADDRESS": "В. Великого 32",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "82",
+        "ADDRESS": "В. Великого 35",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "82",
+        "ADDRESS": "В. Великого 35а",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "76",
+        "ADDRESS": "В. Великого 36",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "116",
+        "ADDRESS": "В. Великого  48",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "78",
+        "ADDRESS": "В. Великого 5",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В. Великого 61",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В. Великого 63",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В. Великого 67",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В. Великого 69",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "84",
+        "ADDRESS": "В. Великого 71а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "84",
+        "ADDRESS": "В. Великого 75",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "84",
+        "ADDRESS": "В. Великого 79",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "84",
+        "ADDRESS": "В. Великого 83",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "116",
+        "ADDRESS": "В.Великого 111",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "116",
+        "ADDRESS": "В.Великого 117",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "76",
+        "ADDRESS": "В.Великого 20",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "79",
+        "ADDRESS": "В.Великого 29",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "79",
+        "ADDRESS": "В.Великого 31",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "76",
+        "ADDRESS": "В.Великого 34",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "В.Великого 39",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "82",
+        "ADDRESS": "В.Великого ",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "82",
+        "ADDRESS": "В.Великого 41",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "В.Великого 43",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "76",
+        "ADDRESS": "В.Великого 44",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "116",
+        "ADDRESS": "В.Великого 46",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "В.Великого 47а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "82",
+        "ADDRESS": "В.Великого 49а",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "78",
+        "ADDRESS": "В.Великого 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "82",
+        "ADDRESS": "В.Великого 51",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В.Великого 57",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В.Великого 59а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В.Великого 63",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "139",
+        "ADDRESS": "В.Великого 69",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "84",
+        "ADDRESS": "В.Великого 79",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "84",
+        "ADDRESS": "В.Великого 83",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "116",
+        "ADDRESS": "В.Великого 91",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "116",
+        "ADDRESS": "В.Великого 95",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "132",
+        "ADDRESS": "Вагонна 20",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "132",
+        "ADDRESS": "Вагонна 7",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "53",
+        "ADDRESS": "Варшавська 30",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Варшавська 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Васильківського 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Вашингтона 7а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського 14",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського 32",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського 36",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського 4",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського 44",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського 48",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "50",
+        "ADDRESS": "Величковського 58а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Венеціанова",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Венеціанова 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "104",
+        "ADDRESS": "Вернадського 10",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "104",
+        "ADDRESS": "Вернадського 2",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "103",
+        "ADDRESS": "Вернадського 26",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "103",
+        "ADDRESS": "Вернадського 32",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "104",
+        "ADDRESS": "Вернадського 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "103",
+        "ADDRESS": "Вернадського 40",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Вигін 1",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Вигін 3",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "43",
+        "ADDRESS": "Виговського 13",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "43",
+        "ADDRESS": "Виговського 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "43",
+        "ADDRESS": "Виговського 25",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "43",
+        "ADDRESS": "Виговського 29",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "43",
+        "ADDRESS": "Виговського 31",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 33",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 33а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 41",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "33",
+        "ADDRESS": "Виговського 5",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 59",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 63",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "33",
+        "ADDRESS": "Виговського 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "43",
+        "ADDRESS": "Виговського 72",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 77",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 79",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "36",
+        "ADDRESS": "Виговського 83",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "33",
+        "ADDRESS": "Виговського 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "127",
+        "ADDRESS": "Вигоди 54",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "127",
+        "ADDRESS": "Вигоди 56",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "127",
+        "ADDRESS": "Вигоди ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "127",
+        "ADDRESS": "Вигоди 58",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "127",
+        "ADDRESS": "Вигоди 62",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "1",
+        "ADDRESS": "Винниця 128",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "53",
+        "ADDRESS": "Винниця 3а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "119",
+        "ADDRESS": "Вірменська 12",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Вовчка М. 41",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "14",
+        "ADDRESS": "Волинська ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "86",
+        "ADDRESS": "Вулецька 6",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Гавришкевича 6",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Газова 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Газова 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "25",
+        "ADDRESS": "Гайдамацька 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "105",
+        "ADDRESS": "Гашека 17",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "105",
+        "ADDRESS": "Гашека 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "105",
+        "ADDRESS": "Гашека 22",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "107",
+        "ADDRESS": "Генерала Грекова 8",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "23",
+        "ADDRESS": "Героїв Крут 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Героїв УПА 24",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Героїв УПА ",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Героїв УПА 5",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Героїв УПА  55",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Героїв УПА 76",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "118",
+        "ADDRESS": "Глибока 14",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "118",
+        "ADDRESS": "Глибока 19",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Глібова 8",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Гоголя 12а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Гоголя 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Гоголя 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Головатого 1",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Головацького 11а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "87",
+        "ADDRESS": "Голубця 48",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "87",
+        "ADDRESS": "Голубця 80",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "4",
+        "ADDRESS": "Горбачевського 21",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Горбкова 6",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Городницька 19",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Городницька 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "40",
+        "ADDRESS": "Городоцька 117",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "143",
+        "ADDRESS": "Городоцька 138",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "143",
+        "ADDRESS": "Городоцька 146",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "143",
+        "ADDRESS": "Городоцька 1",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "40",
+        "ADDRESS": "Городоцька 166",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "40",
+        "ADDRESS": "Городоцька 167",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "143",
+        "ADDRESS": "Городоцька 168",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "40",
+        "ADDRESS": "Городоцька 173",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "143",
+        "ADDRESS": "Городоцька 201",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "39",
+        "ADDRESS": "Городоцька 206",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "143",
+        "ADDRESS": "Городоцька 209",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Городоцька ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Городоцька 21",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "39",
+        "ADDRESS": "Городоцька 216",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "39",
+        "ADDRESS": "Городоцька 218",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "143",
+        "ADDRESS": "Городоцька 219",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "43",
+        "ADDRESS": "Городоцька 247",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Городоцька 280",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "6",
+        "ADDRESS": "Городоцька",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "6",
+        "ADDRESS": "Городоцька 289",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "6",
+        "ADDRESS": "Городоцька 297",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "6",
+        "ADDRESS": "Городоцька 301",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "6",
+        "ADDRESS": "Городоцька 309",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Городоцька 39",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Городоцька 45",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "40",
+        "ADDRESS": "Городоцька 72",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "40",
+        "ADDRESS": "Городоцька 90",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "57",
+        "ADDRESS": "Граб'янки 13",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "57",
+        "ADDRESS": "Граб'янки 5",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "57",
+        "ADDRESS": "Граб'янки 7",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "57",
+        "ADDRESS": "Граб'янки 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Грабовського 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Григоровича 6",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Грінченка 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Грінченка 14",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Грінченка 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Грінченка 4б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Грінченка 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Грінченка 6б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Грінченка 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Грюнвальдська 7",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Декарта 11а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "105",
+        "ADDRESS": "Демнянська 18",
+        "CHILDREN_COUNT": "9"
+      },
+      {
+        "NUM_OF_EVELOPE": "107",
+        "ADDRESS": "Джерельна 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "107",
+        "ADDRESS": "Джерельна 21",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "107",
+        "ADDRESS": "Джерельна 34",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "Дніпровська 13",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Дністерська 10",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Дністерська 12",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Дністерська 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Дністерська 14а ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "91",
+        "ADDRESS": "Довженка 1",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "91",
+        "ADDRESS": "Довженка 10",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "91",
+        "ADDRESS": "Довженка 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "91",
+        "ADDRESS": "Довженка 22",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "91",
+        "ADDRESS": "Довженка 3",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "91",
+        "ADDRESS": "Довженка 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "14",
+        "ADDRESS": "Донецька",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "14",
+        "ADDRESS": "Донецька 19",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Донцова 21",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Донцова   7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Дорошенка 59",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Дорошенка 62",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "10",
+        "ADDRESS": "Драгана 1",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "95",
+        "ADDRESS": "Драгана 10",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "95",
+        "ADDRESS": "Драгана 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "10",
+        "ADDRESS": "Драгана 15г",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "95",
+        "ADDRESS": "Драгана 16",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "95",
+        "ADDRESS": "Драгана 26",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "95",
+        "ADDRESS": "Драгана 30",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "10",
+        "ADDRESS": "Драгана 8",
+        "CHILDREN_COUNT": "9"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Драгоманова 26",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Дубова 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Дудаєва 7",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Дунайська 1",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Дунайська 32",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Енергетична 1",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Енергетична 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Енергетична 2",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Енергетична 22",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Енергетична 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "4",
+        "ADDRESS": "Єфремова 37",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "4",
+        "ADDRESS": "Єфремова 68",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "134",
+        "ADDRESS": "Заводська  14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "134",
+        "ADDRESS": "Заводська 16",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "134",
+        "ADDRESS": "Заводська 4",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "133",
+        "ADDRESS": "Заклинських 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Залізнична 10",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Залізнична 2",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Залізнична 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Залізнична 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "25",
+        "ADDRESS": "Замарстинівська 11",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Замарстинівська 191",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "25",
+        "ADDRESS": "Замарстинівська 28",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "134",
+        "ADDRESS": "Замарстинівська 52",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "131",
+        "ADDRESS": "Замкова 1",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "133",
+        "ADDRESS": "Замкова ",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Заньковецької",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "96",
+        "ADDRESS": "Запорізька 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Зарицьких 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Збоїща 52 (особ.)",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "24",
+        "ADDRESS": "Зелена 107",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "24",
+        "ADDRESS": "Зелена 113",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Зелена 130",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "44",
+        "ADDRESS": "Зелена 212",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Зелена 264(особ.)",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "Зелена 40",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "Зелена 48",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Зерова 1",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "Золота 18",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "Золота 23",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "93",
+        "ADDRESS": "Зубрівська 11",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "93",
+        "ADDRESS": "Зубрівська 23",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "93",
+        "ADDRESS": "Зубрівська 25а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "93",
+        "ADDRESS": "Зубрівська 27",
+        "CHILDREN_COUNT": "9"
+      },
+      {
+        "NUM_OF_EVELOPE": "29",
+        "ADDRESS": "Зубрівська 28",
+        "CHILDREN_COUNT": "13"
+      },
+      {
+        "NUM_OF_EVELOPE": "29",
+        "ADDRESS": "Зубрівська 36",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "14",
+        "ADDRESS": "Зустрічна 10",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "110",
+        "ADDRESS": "Івана Франка",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Івана Франка 157а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Івана Франка 17",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Івана Франка 35",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Івана Франка 67",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Івана Франка 72",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "К.Левицького 67а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "К.Левицького 98",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "К.Левицького 99",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "83",
+        "ADDRESS": "Кавалерідзе",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "83",
+        "ADDRESS": "Кавалерідзе 1",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "88",
+        "ADDRESS": "Кавалерідзе 12",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "88",
+        "ADDRESS": "Кавалерідзе 14",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "88",
+        "ADDRESS": "Кавалерідзе 16",
+        "CHILDREN_COUNT": "9"
+      },
+      {
+        "NUM_OF_EVELOPE": "88",
+        "ADDRESS": "Кавалерідзе 17",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "88",
+        "ADDRESS": "Кавалерідзе",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "88",
+        "ADDRESS": "Кавалерідзе 19",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "83",
+        "ADDRESS": "Кавалерідзе 2",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "83",
+        "ADDRESS": "Кавалерідзе 4",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "83",
+        "ADDRESS": "Кавалерідзе 5",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "83",
+        "ADDRESS": "Кавалерідзе 7",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "94",
+        "ADDRESS": "Кавалерідзе 8",
+        "CHILDREN_COUNT": "9"
+      },
+      {
+        "NUM_OF_EVELOPE": "94",
+        "ADDRESS": "Кавалерідзе 9",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "94",
+        "ADDRESS": "Кавалерідзе 9а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Каліча Гора 20",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "51",
+        "ADDRESS": "Калнишевського 1",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Караджича 13",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Караджича 16",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "134",
+        "ADDRESS": "Караїмська 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Карманського 6а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Кармелюка 12",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "22",
+        "ADDRESS": "Карпинця 17",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Каховська 15",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Каховська 17",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Каховська 37",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Каховська 39",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Каховська 6",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "92",
+        "ADDRESS": "Керамічна 4",
+        "CHILDREN_COUNT": "10"
+      },
+      {
+        "NUM_OF_EVELOPE": "24",
+        "ADDRESS": "Керченська 13",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "96",
+        "ADDRESS": "Кибальчича",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "118",
+        "ADDRESS": "Київська 28а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "118",
+        "ADDRESS": "Київська 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Кирила і Мефодія 15",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Кирила і Мефодія 33",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "81",
+        "ADDRESS": "Китайська 18",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "107",
+        "ADDRESS": "Клепарівська 13",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "107",
+        "ADDRESS": "Клепарівська 23",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "107",
+        "ADDRESS": "Клепарівська 28",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "137",
+        "ADDRESS": "Княгині Ольги 102",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Княгині Ольги",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "77",
+        "ADDRESS": "Княгині Ольги 59",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Княгині Ольги 5б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "77",
+        "ADDRESS": "Княгині Ольги 61",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "77",
+        "ADDRESS": "Княгині Ольги 69",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "77",
+        "ADDRESS": "Княгині Ольги ",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "77",
+        "ADDRESS": "Княгині Ольги 75",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "65",
+        "ADDRESS": "Князя Романа 16",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "65",
+        "ADDRESS": "Князя Романа 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "2",
+        "ADDRESS": "Кобилиці 18",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "2",
+        "ADDRESS": "Кобилиці 19",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "2",
+        "ADDRESS": "Кобилиці 29",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "2",
+        "ADDRESS": "Кобилиці 29а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Кобилянської ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Ковжуна 1",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Ковжуна 2",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Колесси",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Колесси 15",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Колесси 17",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Колодязна 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Коломийська 13",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Коломийська 14",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Коломийська 18",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Коломийська 6",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Коломийська 7",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Кондукторська 45",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Кондукторська 66",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "Кониського О. 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Коновальця  101",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "27",
+        "ADDRESS": "Коновальця  78",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Конотопська 23",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Коперника 11",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "133",
+        "ADDRESS": "Кордуби 12",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Корінна 21",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "Коротка 3",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "39",
+        "ADDRESS": "Корсунська 28",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "90",
+        "ADDRESS": "Кос-Анатольського 12",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "90",
+        "ADDRESS": "Кос-Анатольського 18",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "90",
+        "ADDRESS": "Кос-Анатольського 4",
+        "CHILDREN_COUNT": "9"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Космічна 17",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Костюшка 20",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Котляревського 21",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Котлярська 11",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Котлярська 16",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Котлярська 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "24",
+        "ADDRESS": "Коциловського 20",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "64",
+        "ADDRESS": "Коцюбинського 17",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Кошиця 1",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Кошиця 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Кравченко У. 18",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Краківська",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Краківська 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Краківська 3",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Краківська 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "131",
+        "ADDRESS": "Кривоноса 19",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Кривчицька дорога 20",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Кривчицька дорога 90",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "24",
+        "ADDRESS": "Кримська 28",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Кричевського",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "33",
+        "ADDRESS": "Кричевського 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Кубійовича 29",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Кубійовича 9",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Кукурудза 13",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "137",
+        "ADDRESS": "Куликівська ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Куліша 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Куліша 12",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Куліша 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Куліша 22",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Куліша 3",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Куліша 40",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "129",
+        "ADDRESS": "Кульпарківська 118",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "144",
+        "ADDRESS": "Кульпарківська 121",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "144",
+        "ADDRESS": "Кульпарківська 1",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "144",
+        "ADDRESS": "Кульпарківська 125",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "129",
+        "ADDRESS": "Кульпарківська 130",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "144",
+        "ADDRESS": "Кульпарківська 133",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "144",
+        "ADDRESS": "Кульпарківська 133а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "144",
+        "ADDRESS": "Кульпарківська 135",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "42",
+        "ADDRESS": "Кульпарківська 139",
+        "CHILDREN_COUNT": "11"
+      },
+      {
+        "NUM_OF_EVELOPE": "146",
+        "ADDRESS": "Кульпарківська 141",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "146",
+        "ADDRESS": "Кульпарківська 143",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "146",
+        "ADDRESS": "Кульпарківська 145",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "146",
+        "ADDRESS": "Кульпарківська 147",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Кульпарківська 15",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "129",
+        "ADDRESS": "Кульпарківська 158б",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "129",
+        "ADDRESS": "Кульпарківська 160",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "129",
+        "ADDRESS": "Кульпарківська 166",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "129",
+        "ADDRESS": "Кульпарківська 168",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Кульпарківська 36-42",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Кульчицької 12",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Кульчицької 9",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Купали 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Купали ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Купали 28",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "53",
+        "ADDRESS": "Купчинського",
+        "CHILDREN_COUNT": "12"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Курбаса 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Кучера  10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "119",
+        "ADDRESS": "Л.Українки 43",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "41",
+        "ADDRESS": "Лазаренка 48",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "41",
+        "ADDRESS": "Лазаренка 48а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "41",
+        "ADDRESS": "Лазаренка 7",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "41",
+        "ADDRESS": "Лазаренка 8",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "5",
+        "ADDRESS": "Ленона 27",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Леонтовича 15",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Липова алея 1",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Липова алея 5а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "109",
+        "ADDRESS": "Липова алея 9",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "123",
+        "ADDRESS": "Лисеницька 13",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "44",
+        "ADDRESS": "Листопадна 16",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "44",
+        "ADDRESS": "Листопадна 5",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "23",
+        "ADDRESS": "Литвиненка 12",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "23",
+        "ADDRESS": "Литвиненка 13",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "23",
+        "ADDRESS": "Литвиненка 19",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "23",
+        "ADDRESS": "Литвиненка 6",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Литовська 10",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Личаківська 139",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Личаківська 50",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Личаківська 58",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "11",
+        "ADDRESS": "Лісна 3",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "74",
+        "ADDRESS": "Ліська 2",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Льва Толстого 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 101а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 101б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Любінська 102",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 103",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 104",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 107",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 150",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 152",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Любінська 160",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Любінська 4",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Любінська 50",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "132",
+        "ADDRESS": "Любінська 89",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Любінська 89б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "132",
+        "ADDRESS": "Любінська 96",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "132",
+        "ADDRESS": "Любінська 98",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Люльки 5",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "39",
+        "ADDRESS": "Лютнева 29а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "Мазепи 13а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "Мазепи 23",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "Мазепи 35",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "Мазепи 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "Мазепи 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "Мазепи 9а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "29",
+        "ADDRESS": "Манастирського 3",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "29",
+        "ADDRESS": "Манастирського 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Масарика 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Масарика 18",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "81",
+        "ADDRESS": "Медової Печери 15",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "81",
+        "ADDRESS": "Медової Печери 36",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "81",
+        "ADDRESS": "Медової Печери 5",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "40",
+        "ADDRESS": "Меретина В. 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "133",
+        "ADDRESS": "Металістів 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Миколайчука 2",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Миколайчука 22",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Миколайчука 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Миколайчука 7",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "Миргородська 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "96",
+        "ADDRESS": "Мирного 26",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "33",
+        "ADDRESS": "Мисливська 27",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "96",
+        "ADDRESS": "Мишуги 1",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "96",
+        "ADDRESS": "Мишуги 3",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Мідна 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "86",
+        "ADDRESS": "Морозна 12",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "86",
+        "ADDRESS": "Морозна 14",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "86",
+        "ADDRESS": "Морозна 19",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "86",
+        "ADDRESS": "Морозна ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "85",
+        "ADDRESS": "Морозна 19а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "85",
+        "ADDRESS": "Морозна 21а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "85",
+        "ADDRESS": "Морозна 37",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "85",
+        "ADDRESS": "Морозна",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "85",
+        "ADDRESS": "Морозна 37",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "85",
+        "ADDRESS": "Морозна 39",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Моршинська 12",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "131",
+        "ADDRESS": "Мосяжна 2",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "111",
+        "ADDRESS": "Музики 33",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "111",
+        "ADDRESS": "Музики 34",
+        "CHILDREN_COUNT": "12"
+      },
+      {
+        "NUM_OF_EVELOPE": "111",
+        "ADDRESS": "Музики 36",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Мучна 3",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "54",
+        "ADDRESS": "На чвертях 36",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "54",
+        "ADDRESS": "На чвертях 6",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "44",
+        "ADDRESS": "Навроцького 7",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "44",
+        "ADDRESS": "Навроцького 76",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Нагірна 40 ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Нагірних 16",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Наливайка",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Наливайка ",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "131",
+        "ADDRESS": "Насипна 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "68",
+        "ADDRESS": "Наукова 100",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "68",
+        "ADDRESS": "Наукова 106",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "68",
+        "ADDRESS": "Наукова 110",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "68",
+        "ADDRESS": "Наукова 112",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "68",
+        "ADDRESS": "Наукова",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "68",
+        "ADDRESS": "Наукова 114",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "68",
+        "ADDRESS": "Наукова 116",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "72",
+        "ADDRESS": "Наукова 12",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "72",
+        "ADDRESS": "Наукова 16",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "136",
+        "ADDRESS": "Наукова 19",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "136",
+        "ADDRESS": "Наукова 21",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "73",
+        "ADDRESS": "Наукова 24",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "73",
+        "ADDRESS": "Наукова 26",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "73",
+        "ADDRESS": "Наукова 28",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "73",
+        "ADDRESS": "Наукова 28а",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "73",
+        "ADDRESS": "Наукова 30",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "136",
+        "ADDRESS": "Наукова 31",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "73",
+        "ADDRESS": "Наукова 32",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "136",
+        "ADDRESS": "Наукова 33",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "70",
+        "ADDRESS": "Наукова 34",
+        "CHILDREN_COUNT": "19"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 39",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 41",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 43",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "67",
+        "ADDRESS": "Наукова 44",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "67",
+        "ADDRESS": "Наукова 46",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "67",
+        "ADDRESS": "Наукова  48",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "72",
+        "ADDRESS": "Наукова 4а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "67",
+        "ADDRESS": "Наукова 50",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "67",
+        "ADDRESS": "Наукова 52",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 53",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 55",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "114",
+        "ADDRESS": "Наукова 58",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "72",
+        "ADDRESS": "Наукова 6",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "114",
+        "ADDRESS": "Наукова 62",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 64",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "72",
+        "ADDRESS": "Наукова 6а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 74",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 82",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 94",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "69",
+        "ADDRESS": "Наукова 96",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Нечуя-Левицького 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Нечуя-Левицького",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "26",
+        "ADDRESS": "Низинна 19",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Низова 24(особ.)",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Новаківського 14",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "118",
+        "ADDRESS": "Новий Світ 5",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "Новознесенська 11а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "О.Навої 25",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "49",
+        "ADDRESS": "О.Степанівни 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "О.Степанівни 23",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Огієнка 13",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "1",
+        "ADDRESS": "Ожинова 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Окружна 31",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Окружна 47",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "140",
+        "ADDRESS": "Олешківська 13",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Орлина 8а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "142",
+        "ADDRESS": "Освицька 13",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "22",
+        "ADDRESS": "Остроградських 20",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Очакiвська 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Очаківська 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Очаківська 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "37",
+        "ADDRESS": "Панча 10",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "87",
+        "ADDRESS": "Пасічна",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "87",
+        "ADDRESS": "Пасічна 49",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "87",
+        "ADDRESS": "Пасічна  58",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "123",
+        "ADDRESS": "Пасічна  90",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Пастернака 2",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "47",
+        "ADDRESS": "Патона 12",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "47",
+        "ADDRESS": "Патона 15",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "48",
+        "ADDRESS": "Патона 2",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "47",
+        "ADDRESS": "Патона 27",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "47",
+        "ADDRESS": "Патона 31",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Патона 34",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "47",
+        "ADDRESS": "Патона 35",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "48",
+        "ADDRESS": "Патона 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "48",
+        "ADDRESS": "Патона 4а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "48",
+        "ADDRESS": "Патона 6",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "48",
+        "ADDRESS": "Патона 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "65",
+        "ADDRESS": "Пекарська 16",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Перемиська 3",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 17",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 18",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 27",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 30",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 37",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "9",
+        "ADDRESS": "Петлюри 53",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "25",
+        "ADDRESS": "Пильникарська 12",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "25",
+        "ADDRESS": "Пильникарська 4",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "37",
+        "ADDRESS": "Під Голоском 17б",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "37",
+        "ADDRESS": "Під Голоском 21",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "131",
+        "ADDRESS": "Підмурна 5",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "пл. Липнева 2",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "пл.Ринок 45",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "63",
+        "ADDRESS": "Пл.Різні ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "65",
+        "ADDRESS": "Пл.Соборна 3",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "100",
+        "ADDRESS": "Плугова 2",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Плужника 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "54",
+        "ADDRESS": "Повітряна 77",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "54",
+        "ADDRESS": "Повітряна 8",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "24",
+        "ADDRESS": "Погулянка 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Покутська 20",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "39",
+        "ADDRESS": "Полтави 34",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "39",
+        "ADDRESS": "Полтави 36",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "102",
+        "ADDRESS": "Полуботка 11",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "52",
+        "ADDRESS": "Полуботка 15",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "52",
+        "ADDRESS": "Полуботка 17",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "52",
+        "ADDRESS": "Полуботка 19",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "102",
+        "ADDRESS": "Полуботка 2",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "52",
+        "ADDRESS": "Полуботка 21",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "52",
+        "ADDRESS": "Полуботка",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "52",
+        "ADDRESS": "Полуботка 23",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "102",
+        "ADDRESS": "Полуботка 3",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "102",
+        "ADDRESS": "Полуботка",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "102",
+        "ADDRESS": "Полуботка 3",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "102",
+        "ADDRESS": "Полуботка 7",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "133",
+        "ADDRESS": "Польова 16",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "133",
+        "ADDRESS": "Польова 29а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Поповича ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "1",
+        "ADDRESS": "Порічкова 15",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "22",
+        "ADDRESS": "Похила 8",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Природна 3",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "59",
+        "ADDRESS": "Прихильна 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "14",
+        "ADDRESS": "Промислова",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "14",
+        "ADDRESS": "Промислова 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "14",
+        "ADDRESS": "Промислова 33",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 11",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 13",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 15",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 17",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "99",
+        "ADDRESS": "Пулюя 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 19",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 21",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "99",
+        "ADDRESS": "Пулюя 26",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 29",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "99",
+        "ADDRESS": "Пулюя 32",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "99",
+        "ADDRESS": " Пулюя 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "99",
+        "ADDRESS": "Пулюя 6",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "108",
+        "ADDRESS": "Пулюя 9",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Райдужна 10б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Рахівська 24",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Рахівська 90",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Рєпіна 12",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Різб'ярська",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "65",
+        "ADDRESS": "Рогатинців 32",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "65",
+        "ADDRESS": "Рогатинців 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Розбіжна 14а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "51",
+        "ADDRESS": "Роксоляни 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "51",
+        "ADDRESS": "Роксоляни 59а",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Росиста 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "Рубчака 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "Рубчака 17а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "Рубчака 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Рудницького 39",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "126",
+        "ADDRESS": "Ряшівська 1",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "126",
+        "ADDRESS": "Ряшівська 13",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "126",
+        "ADDRESS": "Ряшівська 27",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "126",
+        "ADDRESS": "Ряшівська 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "с. Сокільники,  Д. Галицького 118",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "с. Сокільники,  Д. Галицького 21",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "с. Сокільники, С. Стрільців 298",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "с. Сокільники, С. Стрільців 298б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "11",
+        "ADDRESS": "с.Зубра, вул. Лісна 26",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "с.Сокільники, Куліша 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Садибна  29а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "66",
+        "ADDRESS": "Садибна  29б",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "81",
+        "ADDRESS": "Садівнича 25",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "81",
+        "ADDRESS": "Садівнича 41",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "112",
+        "ADDRESS": "Садова 15",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "112",
+        "ADDRESS": "Садова 25",
+        "CHILDREN_COUNT": "10"
+      },
+      {
+        "NUM_OF_EVELOPE": "112",
+        "ADDRESS": "Садова 27а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Садовського 4",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Саксаганського 20",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Саксаганського 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Самокиша 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "121",
+        "ADDRESS": "Сахарова 26",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "22",
+        "ADDRESS": "Сахарова 27",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "22",
+        "ADDRESS": "Сахарова 29",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "22",
+        "ADDRESS": "Сахарова 31",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "110",
+        "ADDRESS": "Свєнціцького 11",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "119",
+        "ADDRESS": "пр. Свободи 31",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "119",
+        "ADDRESS": "пр. Свободи  6",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "98",
+        "ADDRESS": "Сєченова 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "98",
+        "ADDRESS": "Сєченова 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "6",
+        "ADDRESS": "Сигнівка 5",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Симоненка 1",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Симоненка 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Симоненка 20",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Симоненка 22",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Симоненка 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Симоненка 9",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "38",
+        "ADDRESS": "Сихівська 12",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "21",
+        "ADDRESS": "Сихівська 17",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "38",
+        "ADDRESS": "Сихівська 2",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "21",
+        "ADDRESS": "Сихівська 26",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "38",
+        "ADDRESS": "Сихівська 3",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "21",
+        "ADDRESS": "Сихівська 30",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "38",
+        "ADDRESS": "Сихівська 4",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "38",
+        "ADDRESS": "Сихівська 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Січових Стрільців 10",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Січових Стрільців 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "130",
+        "ADDRESS": "Скнилівська 82",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Сковороди ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "105",
+        "ADDRESS": "Скорини 24",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "105",
+        "ADDRESS": "Скорини 32",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "142",
+        "ADDRESS": "Скрипника 10",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "142",
+        "ADDRESS": "Скрипника 12",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "11",
+        "ADDRESS": "Скрипника 13",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "11",
+        "ADDRESS": "Скрипника 15",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "11",
+        "ADDRESS": "Скрипника 25",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "11",
+        "ADDRESS": "Скрипника 27",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "142",
+        "ADDRESS": "Скрипника 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "142",
+        "ADDRESS": "Скрипника 8",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "142",
+        "ADDRESS": "Скрипника 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "26",
+        "ADDRESS": "Сластіона 58",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Словацького 2",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Солодова 3а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Солодова 7",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "111",
+        "ADDRESS": "Сонячна 14",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "122",
+        "ADDRESS": "Соснова",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Сполучна 12",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "65",
+        "ADDRESS": "Староєврейська",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Стефаника 11",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "62",
+        "ADDRESS": "Стефаника 8",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "Стрийська 101",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "41",
+        "ADDRESS": "Стрийська 106",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "Стрийська 127",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "120",
+        "ADDRESS": "Стрийська 53",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "120",
+        "ADDRESS": "Стрийська 57",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "120",
+        "ADDRESS": "Стрийська 61",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "120",
+        "ADDRESS": "Стрийська 63",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Стрийська 64",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "20",
+        "ADDRESS": "Стрийська 65",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "20",
+        "ADDRESS": "Стрийська 71",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "20",
+        "ADDRESS": "Стрийська 75",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Стрийська 76а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "20",
+        "ADDRESS": "Стрийська 87в",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "20",
+        "ADDRESS": "Стрийська 89",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "41",
+        "ADDRESS": "Стрийська 96",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "19",
+        "ADDRESS": "Стрийська 99",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "134",
+        "ADDRESS": "Стрімка 4",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "110",
+        "ADDRESS": "Стуса 39",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "110",
+        "ADDRESS": "Стуса 7",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Суботівська 11",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "54",
+        "ADDRESS": "Сушка 4",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Східна 42",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Східна 44",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "140",
+        "ADDRESS": "Сяйво 11",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "140",
+        "ADDRESS": "Сяйво 13",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "140",
+        "ADDRESS": "Сяйво 15",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "87",
+        "ADDRESS": "Таджицька 17",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Таманська 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Тарнавського 104а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Тарнавського 109",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Тарнавського 35",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "25",
+        "ADDRESS": "Татарська 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Творча 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Театральна 10",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Театральна 24",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Театральна 3",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "7",
+        "ADDRESS": "Театральна 7",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "26",
+        "ADDRESS": "Темницьких 69а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "26",
+        "ADDRESS": "Темницьких 69а(?)",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "3",
+        "ADDRESS": "Терлецького ",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "58",
+        "ADDRESS": "Тернова 19",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Тичини 21",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Тракт Глинянський 147а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Тракт Глинянський 161б",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Тракт Глинянський 161в",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "106",
+        "ADDRESS": "Тракт Глинянський 165",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "89",
+        "ADDRESS": "Трильовського 16",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "89",
+        "ADDRESS": "Трильовського 18",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "89",
+        "ADDRESS": "Трильовського 20",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "Тролейбусна 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "115",
+        "ADDRESS": "Тролейбусна 2",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "138",
+        "ADDRESS": "Туган-Барановського 9а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Тучапського 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Тютюнників 27",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Тютюнників",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "101",
+        "ADDRESS": "Тютюнників 51",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "23",
+        "ADDRESS": "Угорська 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "23",
+        "ADDRESS": "Угорська 9",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "75",
+        "ADDRESS": "Федьковича 35",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "98",
+        "ADDRESS": "Федьковича 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Фурманська 8",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "145",
+        "ADDRESS": "Харківська 10",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Хвильового 25а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Хвильового 33",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "56",
+        "ADDRESS": "Хвильового 38",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "131",
+        "ADDRESS": "Хмельницького 11",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "Хмельницького 150",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "Хмельницького 195",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Хмельницького 255",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Хмельницького 267",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "25",
+        "ADDRESS": "Хмельницького 51",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "1",
+        "ADDRESS": "Холодна 88",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "8",
+        "ADDRESS": "Хоткевича 10",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "8",
+        "ADDRESS": "Хоткевича 12",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "8",
+        "ADDRESS": "Хоткевича 14",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "8",
+        "ADDRESS": "Хоткевича 16а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "15",
+        "ADDRESS": "Хоткевича 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "15",
+        "ADDRESS": "Хоткевича 22",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "15",
+        "ADDRESS": "Хоткевича 28",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "15",
+        "ADDRESS": "Хоткевича 30а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "135",
+        "ADDRESS": "Хоткевича 32",
+        "CHILDREN_COUNT": "12"
+      },
+      {
+        "NUM_OF_EVELOPE": "15",
+        "ADDRESS": "Хоткевича 36",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "13",
+        "ADDRESS": "Хоткевича 58",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "8",
+        "ADDRESS": "Хоткевича 6",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "13",
+        "ADDRESS": "Хоткевича 60",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "13",
+        "ADDRESS": "Хоткевича 62",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "13",
+        "ADDRESS": "Хоткевича 64",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "13",
+        "ADDRESS": "Хоткевича 66",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "4",
+        "ADDRESS": "Художня 4",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "61",
+        "ADDRESS": "Хуторівка 30",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "61",
+        "ADDRESS": "Хуторівка 32",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "61",
+        "ADDRESS": "Хуторівка 34",
+        "CHILDREN_COUNT": "14"
+      },
+      {
+        "NUM_OF_EVELOPE": "61",
+        "ADDRESS": "Хуторівка 36",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Хуторівка 40",
+        "CHILDREN_COUNT": "8"
+      },
+      {
+        "NUM_OF_EVELOPE": "16",
+        "ADDRESS": "Хуторівка 42",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "120",
+        "ADDRESS": "Хуторівка 5",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "117",
+        "ADDRESS": "Циганівка 18",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "32",
+        "ADDRESS": "Чайковського 16",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Червона 13",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "28",
+        "ADDRESS": "пр. Червоної Калини 105",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "104",
+        "ADDRESS": "пр. Червоної Калини 125",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "104",
+        "ADDRESS": "пр. Червоної Калини 135",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "125",
+        "ADDRESS": "пр. Червоної Калини 31",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "125",
+        "ADDRESS": "пр. Червоної Калини 39",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "30",
+        "ADDRESS": "пр. Червоної Калини  40",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "30",
+        "ADDRESS": "пр. Червоної Калини",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "30",
+        "ADDRESS": "пр. Червоної Калини 42",
+        "CHILDREN_COUNT": "10"
+      },
+      {
+        "NUM_OF_EVELOPE": "30",
+        "ADDRESS": "пр. Червоної Калини 44",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "125",
+        "ADDRESS": "пр. Червоної Калини 47",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "30",
+        "ADDRESS": "пр. Червоної Калини 48",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "125",
+        "ADDRESS": "пр. Червоної Калини 49",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "125",
+        "ADDRESS": "пр. Червоної Калини",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "31",
+        "ADDRESS": "пр. Червоної Калини 61",
+        "CHILDREN_COUNT": "10"
+      },
+      {
+        "NUM_OF_EVELOPE": "31",
+        "ADDRESS": "пр. Червоної Калини 63",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "31",
+        "ADDRESS": "пр. Червоної Калини 63а",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "31",
+        "ADDRESS": "пр. Червоної Калини 73",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "28",
+        "ADDRESS": "пр. Червоної Калини 76",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "31",
+        "ADDRESS": "пр. Червоної Калини 77",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "28",
+        "ADDRESS": "пр. Червоної Калини 97",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "28",
+        "ADDRESS": "пр. Червоної Калини 99",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "Черкаська 2",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Чернігівська 17",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "147",
+        "ADDRESS": "Чернігівська 6",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "124",
+        "ADDRESS": "Чигиринська ",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "37",
+        "ADDRESS": "Чорновола 99",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "53",
+        "ADDRESS": "Чубинського 23",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "46",
+        "ADDRESS": "Чуваська 47",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "17",
+        "ADDRESS": "Чукаріна 1",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "17",
+        "ADDRESS": "Чукаріна 20",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "17",
+        "ADDRESS": "Чукаріна 24",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "17",
+        "ADDRESS": "Чукаріна 28",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "17",
+        "ADDRESS": "Чукаріна 6",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "27",
+        "ADDRESS": "Чупринки 114",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "27",
+        "ADDRESS": "Чупринки 11а",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "141",
+        "ADDRESS": "Чупринки ",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "27",
+        "ADDRESS": "Чупринки 19",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "27",
+        "ADDRESS": "Чупринки 30",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "27",
+        "ADDRESS": "Чупринки 4",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "4",
+        "ADDRESS": "Чупринки 44",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "4",
+        "ADDRESS": "Чупринки 58а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "4",
+        "ADDRESS": "Чупринки 74",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Шафарика 14",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "18",
+        "ADDRESS": "Шафарика 14а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "44",
+        "ADDRESS": "Шахтарська 2",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "119",
+        "ADDRESS": "пр. Шевченка 11",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "119",
+        "ADDRESS": "пр. Шевченка 3",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "59",
+        "ADDRESS": "Шевченка 318",
+        "CHILDREN_COUNT": "6"
+      },
+      {
+        "NUM_OF_EVELOPE": "59",
+        "ADDRESS": "Шевченка 338",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "59",
+        "ADDRESS": "Шевченка 340",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "59",
+        "ADDRESS": "Шевченка 344а",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Шевченка 370",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Шевченка 394",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Шевченка 398",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Шевченка 404",
+        "CHILDREN_COUNT": "7"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Шевченка 412",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Шевченка 414",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "вул. Шевченка 66",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "98",
+        "ADDRESS": "Шептицьких 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "98",
+        "ADDRESS": "Шептицьких 39",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "140",
+        "ADDRESS": "Широка ",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 55",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 66",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 67",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 71",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 77",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 81",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 88",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 92",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "80",
+        "ADDRESS": "Широка 96",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Шолом-Алейхема 7",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Шопена 7",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Шпитальна 18",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "35",
+        "ADDRESS": "Шпитальна 21",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "113",
+        "ADDRESS": "Щепкіна 5",
+        "CHILDREN_COUNT": "4"
+      },
+      {
+        "NUM_OF_EVELOPE": "12",
+        "ADDRESS": "Щоголева 6",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "5",
+        "ADDRESS": "Щурата 12",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "5",
+        "ADDRESS": "Щурата 5",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "5",
+        "ADDRESS": "Щурата 8",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "5",
+        "ADDRESS": "Щурата 9",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "37",
+        "ADDRESS": "Ю.Липи 39",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "37",
+        "ADDRESS": "Ю.Липи 45",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "Я.Мудрого 1",
+        "CHILDREN_COUNT": "5"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "Я.Мудрого 11",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "34",
+        "ADDRESS": "Я.Мудрого 12А",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Яворницького 10",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "45",
+        "ADDRESS": "Яворницького 8",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Яновського 11",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Яновського 11б",
+        "CHILDREN_COUNT": "3"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Ярославенка 22а",
+        "CHILDREN_COUNT": "1"
+      },
+      {
+        "NUM_OF_EVELOPE": "128",
+        "ADDRESS": "Ярославенка 41",
+        "CHILDREN_COUNT": "2"
+      },
+      {
+        "NUM_OF_EVELOPE": "60",
+        "ADDRESS": "Ярославська 6а",
+        "CHILDREN_COUNT": "1"
+      }
+    ]
+}

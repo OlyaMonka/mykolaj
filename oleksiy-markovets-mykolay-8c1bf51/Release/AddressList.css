@@ -1,0 +1,28 @@
+﻿EVELOPE
+
+{display: block;  
+
+margin-top: 12pt;  
+
+font-size: 10pt} 
+
+NUM_OF_EVELOPE
+
+{display: block;  
+
+font-size: 12pt;  
+margin-top: 12pt;  
+font-weight:bold;  
+
+font-style:italic} 
+
+ADDRESS
+
+{display: block;  
+
+font-size: 12pt;  
+
+font-weight:bold;  
+
+font-style:italic} 
+

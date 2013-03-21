@@ -1,0 +1,72 @@
+FAMILY
+
+{display: block;  
+
+margin-top: 12pt;  
+
+font-size: 10pt} 
+
+CHILDREN
+
+{display: block;  
+
+margin-top: 12pt;  
+
+font-size: 10pt} 
+
+NUM_OF_EVELOPE
+
+{display: block;  
+
+font-size: 12pt;  
+
+font-weight:bold;  
+
+font-style:italic} 
+
+ADDRESS
+
+{display: block;  
+
+font-size: 12pt;  
+
+font-weight:bold;  
+
+font-style:italic} 
+
+STATUS
+
+{display: block;  
+
+font-size: 12pt;  
+
+font-weight:bold;  
+
+font-style:italic} 
+
+NAME
+
+{margin-left: 15pt; 
+
+font-weight:bold} 
+
+SEX
+
+{margin-left: 15pt} 
+
+AGE
+
+{
+
+margin-left: 15pt} 
+
+GUARDIANS_PARENTS
+
+{display: block;
+
+margin-left: 15pt} 
+
+NOTES
+
+{margin-left: 15pt} 
+
